@@ -5,5 +5,5 @@ faiss-cpu
 pandasai
 langchain-community
 pypdf
-python-docx
+python-docx==3.8
 streamlit
